@@ -21,6 +21,7 @@ APPLIED SPACY
 10. Financial Analysis with spaCy 3
 
 Links: 
+
 https://spacy.pythonhumanities.com/intro.html
 
 https://www.youtube.com/watch?v=dIUTsFT2MeQ&ab_channel=freeCodeCamp.org
